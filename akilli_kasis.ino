@@ -1,7 +1,7 @@
 #include <Servo.h>
 #include <LiquidCrystal_I2C.h>
 LiquidCrystal_I2C lcd(0x27, 16, 2);
-#define Led 10
+#define servo 10
 #define sensor1 13
 #define sensor2 12
 
